@@ -1,0 +1,1 @@
+This is a Payroll Automation Project implemented with UiPath tool which automatically uploads the payslips to respective individuals of the company. The workflow is briefly described in the form of 2 flowcharts(Workflow of PDF Generation followed by Workflow of Automatic Uploading of Files). 
